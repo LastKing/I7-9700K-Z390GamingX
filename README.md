@@ -1,6 +1,6 @@
 # 安装
 
-当前使用`oc0.7.2`  macOs版本`11.5.1`
+当前使用`oc0.8.5`  macOs版本`13.0.0`
 
 警告：此efi定制了 技嘉z390-GamingX 的usb，如果不是此主板请自行定制
 
@@ -60,6 +60,7 @@ boot-args = -v keepsyms=1 debug=0x100 agdpmod=pikera alcid=1
 2. 蓝宝石 Rx550xt
 3. 有线网卡 Intel I219V7
 4. 板载声卡 ALC892
+
 
 1. 用新版的OpenCore.efi替换你现在的
 2. 用新版的BOOTX64.efi替换你现在的
